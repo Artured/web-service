@@ -5,7 +5,7 @@
     *   http://localhost/ws/web_service.php?wsdl 
     *
     * Este webservice ayuda a verificar si una orden regitrada en un sistema central existe 
-    * en el sistema local de sucursal
+    * en el sistema local de sucursal, si no existe la crea.
     * 
     */
 
