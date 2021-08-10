@@ -1,2 +1,5 @@
 # web-service
-Soap web service in PHP
+
+This Soap web service
+
+check if a command exist and if not, creates it
